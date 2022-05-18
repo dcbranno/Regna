@@ -567,21 +567,21 @@ body {
 
 /* Right column */
 .rightcolumn {
-  float: left;
+  float: right;
   width: 25%;
   padding-left: 20px;
 }
 
-/* Fake image */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
+/* Blog image */
+.blogimg {
+  background-color: rgb(253, 250, 250);
+  width: 70%;
+  padding: 1px;
 }
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: rgb(250, 248, 248);
   padding: 20px;
   margin-top: 20px;
 }
